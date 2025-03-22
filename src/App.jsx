@@ -1,5 +1,5 @@
 import React from "react";
-import Sidebar from "./components/Sidebar/Sidebar";
+import Sidebar from "./Components/Sidebar/Sidebar";
 import Main from "./Components/Main/Main";
 
 const App = () => {
