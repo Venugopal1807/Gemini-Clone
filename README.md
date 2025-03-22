@@ -8,6 +8,8 @@
 
 Welcome to the Google Gemini AI App Clone! This project is a ReactJS-based application designed to replicate the functionality and user experience of Google Gemini AI. The app provides an interactive platform where users can ask questions and receive AI-generated responses in real-time, all within a clean and user-friendly interface.
 
+## Live Link
+   https://gemini-clone-ashy-three.vercel.app/
 
 ## Key Features
 
